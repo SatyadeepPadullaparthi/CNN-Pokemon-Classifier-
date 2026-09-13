@@ -6,7 +6,7 @@ An end-to-end deep learning and computer vision pipeline designed to systematica
 
 > 🔒 **Academic Integrity & Compliance Notice:** In strict accordance with the **[HKUST Academic Honor Code](https://hkust.edu.hk)**, all raw executable source code files (`.py`, `.ipynb`) and computational model training assets are securely maintained in a **Private** repository to prevent unauthorized distribution and duplication. A comprehensive structural overview, engineering layout documentation, and model performance metrics are completely documented below. Codebase access verification can be explicitly granted to recruiters upon requested review.
 
-> 📝 **Academic Program Context:** This project was developed as a structured programming practicum within the **HKUST COMP 2211 (Introduction Artificial Intelligence)** curriculum. While the baseline workspace framework, data distribution pipelines, and task guidelines were provided and heavily assisted by course instructors, all custom engineering implementation—including deep learning model architecture topologies, hyperparameter tuning, and training compilation configurations—was executed independently.
+> 📝 **Academic Program Context (Structured Practicum):** This project was developed as a heavily structured programming practicum within the **HKUST COMP 2211 (Introduction to Artificial Intelligence)** curriculum. The baseline training scaffolding, workspace templates, data distribution pipelines, and task instructions were provided by course instructors and teaching assistants. All custom core engineering code blocks—specifically the data augmentation transformations, deep learning network layouts, fine-tuned hyperparameter limits, and model compilation values—were executed independently.
 
 ---
 
@@ -69,3 +69,4 @@ Engineered a self-contained image-reconstruction network to clear high-frequency
 * **Computer Vision Libraries:** OpenCV (`cv2`)
 * **Scientific Computing & Visualization:** NumPy, Pandas, Matplotlib
 * **Development Environments:** Google Colab
+
